@@ -7,7 +7,6 @@
 - Sam Walton
 - Joshua Lloyd
 - Andrea Finch
-- Adam Barnhard
 - Teresa Vasquez
 - Bri Wyatt
 - Ben Marks
